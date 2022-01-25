@@ -13,6 +13,7 @@ public class UnitTest1
     [InlineData(1,"1")]
     [InlineData(2,"2")]
     [InlineData(3,"fizz")]
+    [InlineData(5,"buzz")]
     public void CallFizzBuzzWithNumber(int input, string output)
     {
         var fizzbuzz = new FizzBuzz();

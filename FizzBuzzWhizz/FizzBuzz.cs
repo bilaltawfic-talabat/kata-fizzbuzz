@@ -8,6 +8,11 @@ public class FizzBuzz
         {
             return "fizz";
         }
+
+        if (value % 5 == 0)
+        {
+            return "buzz";
+        }
         return value.ToString();
     }
 }
