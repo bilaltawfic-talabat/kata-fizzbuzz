@@ -9,11 +9,12 @@ public class UnitTest1
     {
     }
 
-    [Fact]
-    public void CallFizzBuzzWithNumber()
+    [Theory]
+    [InlineData(1,1)]
+    public void CallFizzBuzzWithNumber(int input, int output)
     {
         var fizzbuzz = new FizzBuzz();
-        var result = fizzbuzz.Run(1);
-        Assert.Equal(1, result);
+        var result = fizzbuzz.Run(input);
+        Assert.Equal(output, result);
     }
 }
