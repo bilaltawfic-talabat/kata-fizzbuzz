@@ -4,20 +4,23 @@ public class FizzBuzz
 {
     public string Run(int value)
     {
-        if (value % 3 == 0 && value % 5 == 0)
-        {
-            return "fizzbuzz";
-        }
+        var result = "";
         
         if (value % 3 == 0)
         {
-            return "fizz";
+            result += "fizz";
         }
 
         if (value % 5 == 0)
         {
-            return "buzz";
+            result += "buzz";
         }
-        return value.ToString();
+
+        if (string.IsNullOrEmpty(result))
+        {
+            return value.ToString();    
+        }
+
+        return result;
     }
 }
