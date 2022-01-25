@@ -10,8 +10,9 @@ public class UnitTest1
     }
 
     [Theory]
-    [InlineData(1,1)]
-    public void CallFizzBuzzWithNumber(int input, int output)
+    [InlineData(1,"1")]
+    [InlineData(2,"2")]
+    public void CallFizzBuzzWithNumber(int input, string output)
     {
         var fizzbuzz = new FizzBuzz();
         var result = fizzbuzz.Run(input);

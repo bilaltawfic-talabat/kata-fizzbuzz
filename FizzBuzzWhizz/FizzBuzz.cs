@@ -2,8 +2,8 @@ namespace FizzBuzzWhizz;
 
 public class FizzBuzz
 {
-    public int Run(int value)
+    public string Run(int value)
     {
-        return value;
+        return value.ToString();
     }
 }
