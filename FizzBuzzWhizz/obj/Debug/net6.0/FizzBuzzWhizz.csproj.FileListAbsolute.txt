@@ -1,0 +1,15 @@
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/FizzBuzzWhizz.csproj.AssemblyReference.cache
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/FizzBuzzWhizz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/FizzBuzzWhizz.AssemblyInfoInputs.cache
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/FizzBuzzWhizz.AssemblyInfo.cs
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/FizzBuzzWhizz.csproj.CoreCompileInputs.cache
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/bin/Debug/net6.0/FizzBuzzWhizz
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/bin/Debug/net6.0/FizzBuzzWhizz.deps.json
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/bin/Debug/net6.0/FizzBuzzWhizz.runtimeconfig.json
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/bin/Debug/net6.0/FizzBuzzWhizz.dll
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/bin/Debug/net6.0/ref/FizzBuzzWhizz.dll
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/bin/Debug/net6.0/FizzBuzzWhizz.pdb
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/FizzBuzzWhizz.dll
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/ref/FizzBuzzWhizz.dll
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/FizzBuzzWhizz.pdb
+/Users/bilaltawfic/Source/kata/FizzBuzzWhizz/FizzBuzzWhizz/obj/Debug/net6.0/FizzBuzzWhizz.genruntimeconfig.cache
